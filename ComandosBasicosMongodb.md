@@ -17,7 +17,8 @@ Debemos introducir ***mongod*** como se muestra:
 
 *> mongod*
 
-# *Iniciar el gestor mongodb en el cmd*
+# *Iniciar el gestor mongodb*
+Ahora abrimos otro cmd para poder iniciar el administrador de mongodb, para hacer dicha tarea debemos introducir en nuestra consola el comando ***mongo***:
 
 *> mongo*
 
