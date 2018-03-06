@@ -32,6 +32,11 @@ Para crear una base de datos en mongodb, utilizamos el comando ***use nombre_bas
 
 - *> use playlist*
 
+Una vez creada la base de datos, por default estamos dentro o utilizando esa base.
 
+> Para ver y comprobar que la base de datos se ha creado ponemos el comando ***db***.
+
+# *Crear una colección en una BD*
+Estamos ahora utilizando la BD que creamos anteriormente llamada ***playlist***, en ella vamos a crear una coleccion
 
 > Escrito por [Yadiel Ficachi](https://github.com/YadielFicachi).
