@@ -37,6 +37,24 @@ Una vez creada la base de datos, por default estamos dentro o utilizando esa bas
 > Para ver y comprobar que la base de datos se ha creado ponemos el comando ***db***.
 
 # *Crear una colección en una BD*
-Estamos ahora utilizando la BD que creamos anteriormente llamada ***playlist***, en ella vamos a crear una coleccion
+Estamos ahora utilizando la BD que creamos anteriormente llamada ***playlist***, en ella vamos a crear una coleccion para lo cual utilizaremos este comando: ***db.nombre_coleccion.insert({objetos})***
+
+- ***db***:  Se refiere a la base de datos que estamos utilizando, en el que crearemos la colección.
+- ***nombre_coleccion***: Es el nombre que le daremos a la colección que vamos a crear, la llamaremos ***productos***.
+- ***insert***: Es el argumento que se utiliza para identificar que se ingresarán datos en la coleccion que estamos creando.
+- ***({*** : Debemos iniciar y terminar con paréntesis y llaves, para declarar los objetos que ingresaremos en la colección.
+- ***objetos***: Es un objeto JSON que está conformado o contenido por la clave. El cual debe ir 
+***nombre_objeto:"argumento"*** .
+
+Para lo cual, crearemos nuestra colección de la siguiente manera:
+
+- ***db.productos.insert({nombre:"Jamon", marca:"Fud", familia:"01", subfamilia:"11", codarticulo:"023"})***
+
+> *Podemos insertar los objetos que nos sean necesarios en la misma colección.*
+
+# *Ver documentos de una colección*
+Ahora veremos los documentos que tenemos dentro de nuestra colección que creamos llamada ***productos***, utilizamos el comando ***db.nombre_coleccion.find()***, en nuestro caso ponemos:
+
+- *> db.productos.find()*
 
 > Escrito por [Yadiel Ficachi](https://github.com/YadielFicachi).
