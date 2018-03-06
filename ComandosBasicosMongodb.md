@@ -8,4 +8,9 @@
 
 *> mongo*
 
+# *Ver información de lo que tengamos en mongodb*
+
+*> show dbs*
+
+
 > Escrito por [Yadiel Ficachi](https://github.com/YadielFicachi).
