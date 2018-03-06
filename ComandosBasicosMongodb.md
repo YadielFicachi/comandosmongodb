@@ -23,6 +23,7 @@ Ahora abrimos otro cmd para poder iniciar el administrador de mongodb, para hace
 *> mongo*
 
 # *Ver información de lo que tengamos en mongodb*
+Debemos ingresar el comando ***show dbs***, y nos mostrará la información que tengamos actualmente en el servidor.
 
 *> show dbs*
 
