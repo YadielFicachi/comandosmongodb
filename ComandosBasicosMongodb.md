@@ -27,5 +27,11 @@ Debemos ingresar el comando ***show dbs***, y nos mostrará la información que 
 
 - *> show dbs*
 
+# *Crear una base de datos*
+Para crear una base de datos en mongodb, utilizamos el comando ***use nombre_base*** seguido del nombre que le demos a nuestra base, crearemos una base llamada playlist.
+
+- *> use playlist*
+
+
 
 > Escrito por [Yadiel Ficachi](https://github.com/YadielFicachi).
