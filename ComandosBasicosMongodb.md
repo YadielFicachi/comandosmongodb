@@ -14,6 +14,7 @@ Para comenzar, debemos abrir nuestro cmd para poder realizar lo que sigue.
 
 # *Iniciar el servidor de mongodb*
 Debemos introducir ***mongod*** como se muestra:
+
 *> mongod*
 
 # *Iniciar el gestor mongodb en el cmd*
