@@ -6,11 +6,14 @@ Una de las diferencias más importantes con respecto a las bases de datos relaci
 
 > **Colección:** Concepto similar a una tabla de una base de datos relacional.
 
-A continuación veremos algunos de los comandos básicos en mongoDB
-# Comandos Básicos en Mongodb
+A continuación veremos algunos de los comandos básicos que se utilizan en mongoDB después de haber realizado la instalación previa.
 
-# *Iniciar el servidor de mongodb desde cmd*
+# Comandos en mongoDB
 
+Para comenzar, debemos abrir nuestro cmd para poder realizar lo que sigue.
+
+# *Iniciar el servidor de mongodb*
+Debemos introducir ***mongod*** como se muestra:
 *> mongod*
 
 # *Iniciar el gestor mongodb en el cmd*
