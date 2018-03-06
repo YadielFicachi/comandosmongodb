@@ -6,6 +6,7 @@ Una de las diferencias más importantes con respecto a las bases de datos relaci
 
 > **Colección:** Concepto similar a una tabla de una base de datos relacional.
 
+A continuación veremos algunos de los comandos básicos en mongoDB
 # Comandos Básicos en Mongodb
 
 # *Iniciar el servidor de mongodb desde cmd*
