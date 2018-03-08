@@ -57,4 +57,6 @@ Ahora veremos los documentos que tenemos dentro de nuestra colección que creamo
 
 - *> db.productos.find()*
 
+> Con el comando ***db.nombre_coleccion.findOne(): Puede ver o visualizar solo un documento dentro de la colección.
+
 > Escrito por [Yadiel Ficachi](https://github.com/YadielFicachi).
