@@ -59,4 +59,10 @@ Ahora veremos los documentos que tenemos dentro de nuestra colección que creamo
 
 > Con el comando ***db.nombre_coleccion.findOne():*** Puede ver o visualizar solo un documento dentro de la colección.
 
+#  *Ver colecciones que contenga una BD*
+
+Utilizamos el comando show collections, de esta manera podremos ver las colecciones que se hayan creado en una BD.
+
+- *> show collections*
+
 > Escrito por [Yadiel Ficachi](https://github.com/YadielFicachi).
